@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "でぃすこみゅーたんと！ (Instrumental)",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2026-02-19T07:27:28.778212Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "でぃすこみゅーたんと!",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_でぃすこみゅーたんと!_CUTIE_STREET.txt"
+    }
+  ]
+}
